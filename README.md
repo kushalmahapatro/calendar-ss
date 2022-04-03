@@ -69,8 +69,6 @@ GraphQL query to get data
 
 ![GraphiQL UI](https://github.com/kushalmahapatro/calendar-ss/blob/main/images/Screen%20Shot%202022-04-03%20at%206.48.14%20PM.png "GraphiQL UI")
 
-![Screenshot 1](https://github.com/kushalmahapatro/calendar-ss/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-04-03%20at%2015.51.18.png "Screenshot 1")
-
 ![Screenshot 2](https://github.com/kushalmahapatro/calendar-ss/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-04-03%20at%2016.02.40.png "Screenshot 2")
 
 ![Screenshot 3](https://github.com/kushalmahapatro/calendar-ss/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-04-03%20at%2018.46.08.png "Screenshot 3")
