@@ -18,17 +18,17 @@ Column mobileLayout(
       const SizedBox(height: 12),
       unitViewCard(changes, context, ref),
       const SizedBox(height: 12),
-      Row(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        children: [
-          Flexible(
-              child: 'Set unavailable days'
-                  .ctaActive(BookingInteractor().setUnavailabelDaysClick())),
-          const SizedBox(width: 12.0),
-          Flexible(
-              child: 'Set LOS'.ctaActive(BookingInteractor().setLosClick())),
-        ],
-      ),
+      // Row(
+      //   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+      //   children: [
+      //     Flexible(
+      //         child: 'Set unavailable days'
+      //             .ctaActive(BookingInteractor().setUnavailabelDaysClick())),
+      //     const SizedBox(width: 12.0),
+      //     Flexible(
+      //         child: 'Set LOS'.ctaActive(BookingInteractor().setLosClick())),
+      //   ],
+      // ),
     ],
   );
 }
